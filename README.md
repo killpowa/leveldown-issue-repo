@@ -1,1 +1,12 @@
-leveldown-issue-repo
+### Run
+
+```
+$ npm install
+$ npm start
+```
+
+### Pack
+
+```
+$ npm run pack
+```
